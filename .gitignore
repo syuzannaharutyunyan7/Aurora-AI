@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Model files
+models/
+
+# Chroma DB
+memory/
+
+# Uploads
+uploads/
+
+# System files
+.DS_Store
