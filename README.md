@@ -9,11 +9,17 @@ The goal of this project was to build something similar to ChatGPT, but fully of
 ## What Aurora does
 
 Chat with a local AI model (no internet needed after setup)
+
 Remember past conversations using vector memory
+
 Read and understand files (PDF, DOCX, TXT)
+
 Search relevant context using embeddings (RAG system)
+
 Edit messages and regenerate responses
+
 Run completely locally on CPU
+
 Simple and clean web interface
 
 ---
