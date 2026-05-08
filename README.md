@@ -115,30 +115,6 @@ HTML, CSS, JavaScript
 
 ---
 
-## Project Structure
-
-Aurora-AI/
-│
-├── app.py
-├── rag/
-│   ├── db.py
-│   └── ingest.py
-│
-├── templates/
-│   └── index.html
-│
-├── data/
-│   ├── facts.txt
-│   ├── qa.json
-│   └── wiki.txt
-│
-├── models/        (not uploaded)
-├── memory/        (not uploaded)
-├── uploads/       (not uploaded)
-└── venv/          (not uploaded)
-
----
-
 ## Installation
 
 git clone [https://github.com/yourusername/Aurora-AI.git](https://github.com/yourusername/Aurora-AI.git)
