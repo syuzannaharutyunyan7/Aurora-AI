@@ -1,0 +1,10 @@
+Flask
+llama-cpp-python
+chromadb
+sentence-transformers
+torch
+transformers
+pypdf
+python-docx
+numpy
+huggingface-hub
