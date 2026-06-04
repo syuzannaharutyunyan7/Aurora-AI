@@ -159,6 +159,37 @@ models/llama-3.2-1b-instruct-q4_k_m.gguf
 ```bash
 python app.py
 ```
+### Install and Run (Easy Mode)
+````markdown
+
+Instead of manual setup, just run:
+
+
+
+```bash
+
+python run.py
+
+````
+
+
+
+This will automatically:
+
+
+
+* Install required dependencies
+
+* Check the model file
+
+* Start the Aurora server
+
+
+
+```
+
+```
+
 
 Then open:
 
