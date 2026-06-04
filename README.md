@@ -160,19 +160,12 @@ models/llama-3.2-1b-instruct-q4_k_m.gguf
 python app.py
 ```
 ### Install and Run (Easy Mode)
-````markdown
-
-Instead of manual setup, just run:
-
-
 
 ```bash
 
 python run.py
 
 ````
-
-
 
 This will automatically:
 
@@ -184,11 +177,6 @@ This will automatically:
 
 * Start the Aurora server
 
-
-
-```
-
-```
 
 
 Then open:
